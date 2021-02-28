@@ -1,0 +1,12 @@
+.section {
+  width: 400px;
+  padding: 20px 30px;
+  border: solid 1px rgb(211, 221, 221);
+  margin-bottom: 15px;
+  background-color: rgb(178, 231, 238);
+}
+
+.title {
+  margin-top: 0;
+  margin-bottom: 20px;
+}

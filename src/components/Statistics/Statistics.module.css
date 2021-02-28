@@ -1,0 +1,13 @@
+.statistics {
+  color: rgba(47, 46, 48, 0.794);
+}
+
+li {
+  list-style-type: none; /* Прячем исходные маркеры */
+}
+
+li::before {
+  color: rgb(122, 153, 236);
+  content: '#';
+  padding-right: 10px;
+}
